@@ -5,7 +5,7 @@
  "release_jst": "2026-11-25T22:30+0900",
  "release_label": "11/25（水）22:30",
  "ref_month": "2026年10月分",
- "countdown_days": 2,
+ "countdown_days": 1,
  "stat": "前回（9月） 総合 +3.6% ／ コア +3.1% ｜ 前月比 +0.5%",
  "series": {
   "総合": [
@@ -109,7 +109,7 @@
    }
   ]
  },
- "generated_at": "2026-11-23 23:58 JST",
+ "generated_at": "2026-11-24 03:58 JST",
  "forecast": {
   "ref_month": "2026-10",
   "values": {
