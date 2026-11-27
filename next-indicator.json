@@ -5,7 +5,7 @@
  "release_jst": "2026-12-02T00:00+0900",
  "release_label": "12/2（水）00:00",
  "ref_month": "2026年11月分",
- "countdown_days": 5,
+ "countdown_days": 4,
  "stat": "前回（9月） 752万件（前月差 +33万件）",
  "series": {
   "求人件数": [
@@ -59,7 +59,7 @@
    }
   ]
  },
- "generated_at": "2026-11-27 23:58 JST",
+ "generated_at": "2026-11-28 03:58 JST",
  "forecast": {
   "ref_month": "2026-11",
   "values": {
